@@ -19,12 +19,19 @@ Also made a schematic just to know how to wire everything together
 
 And finally made a little README.md which I will expand later when I create the 3D model and such  
 
-## 10/22/2025 - making CAD files  
+## 10/22/2025 6 PM - making CAD files  
 
 Made some CAD files to test if everything fits etc. I will print them out and change them after that to hopefully have working stl files
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--91a3bfc0b32b82e108377cb61ee679b73ba0e1b4/image.png)
 
 I will be making them out of PLA now but the final product will be made most likely from ASA
+  
+
+## 10/22/2025 9 PM - Test assembly on PLA  
+
+Assembeled the main parts together to see what needs to be changed with the 3D model. The PLA test model was absolutely put to the test to see what sticks and what doesnt. Changed the 3D model up a bit and made a semi-final version. I will have to make the top of the taser and a few more changes but other than that the casing should be done
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--498bc7d2bf2a9be174e664406140922f3aad915b/image.png)
   
 
