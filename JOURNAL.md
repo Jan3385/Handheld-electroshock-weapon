@@ -35,3 +35,18 @@ Assembeled the main parts together to see what needs to be changed with the 3D m
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--498bc7d2bf2a9be174e664406140922f3aad915b/image.png)
   
 
+## 10/23/2025 - Final(?) model   
+
+Carefully inspected the PLA version to find anything that cracked, failed or just didnt fit I made the probably final model for the taser
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2922cfbe2a96de1f55f09e5e32ad6dd05b813f9/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--31675a6f854dbd38ce8e8044113f52f7abf64b5e/image.png)
+
+The taser is made from 3 different parts that fit together. The frame, battery cover and top.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--cd65f83857f185810a1a1b310972b0ccf1af66eb/image.png)
+
+I will print the cover out of ASA (my first printing with it and I dont have an enclosed printer so its gonna be a lot of trial and error), the frame from PETG and the top either from PETG or ASA depending on how well the cover prints from ASA.
+
+I am choosing the ASA due to its lack of elasticity and strength for the cover and the PETG since its more elastics and allows some parts a bit of play and hopefully manages to protect the print if it falls  
+
