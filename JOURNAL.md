@@ -50,3 +50,13 @@ I will print the cover out of ASA (my first printing with it and I dont have an 
 
 I am choosing the ASA due to its lack of elasticity and strength for the cover and the PETG since its more elastics and allows some parts a bit of play and hopefully manages to protect the print if it falls  
 
+## 10/25/2025 - Pre-Assembly  
+
+I 3D printed all the parts and cleaned them up like removing supports, fixing defects etc. It was my first time printing ASA and I dont even have a 3D printer enclosure so my taser head started cracking and I melted it at some parts to fuse it back together. Looking back I would probably print the top using PETG instead of ASA. I also made electrodes for the top and soldered them to wires that will go on the output of a high voltage pulse generator
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwNywicHVyIjoiYmxvYl9pZCJ9fQ==--6e8dc110af8369be0e4a1b870db599c485bc14a6/image.png)
+
+Next step is soldering the electronics together and that will probably be the end of this project
+
+If somebody is interested the total print time for all parts was around the 5-6 hour mark  
+
