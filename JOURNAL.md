@@ -60,7 +60,7 @@ Next step is soldering the electronics together and that will probably be the en
 
 If somebody is interested the total print time for all parts was around the 5-6 hour mark  
 
-## 10/27/2025 - Made the project IRL  
+## 10/27/2025 3 PM - Made the project IRL  
 
 I assembled the 3D printed parts and soldered the electronics.
 It was kinda hard to solder everything while partly inside the case but I managed to do so
@@ -72,4 +72,13 @@ It was kinda hard to solder everything while partly inside the case but I manage
 When building this I recommend making the case out of PETG and the rest from ASA or a different material that doesnt bend too much. I also recommend making sure that the electronics inside are well isolated as I did not and when the electrodes were blocked it struck my LED inside the case and the LED stopped working (everything else works). Gonna finish up my project next like making BOM.csv etc
 
 Also when printing ASA remember to use a hotbox. I did not have one sadly avalible and some cracks started to form on my 3D print which I had to patch myself with a soldering iron  
+
+## 10/27/2025 4 PM - Finished the README, added BOM etc  
+
+Probably finished this project by making the final BOM and completing the README
+
+Making this has been fun and the project ended up being shockingly cheap
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6b3a3f03409e4da358b74b9c11099caddc0a9d4/image.png)
+  
 
