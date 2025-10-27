@@ -60,3 +60,16 @@ Next step is soldering the electronics together and that will probably be the en
 
 If somebody is interested the total print time for all parts was around the 5-6 hour mark  
 
+## 10/27/2025 - Made the project IRL  
+
+I assembled the 3D printed parts and soldered the electronics.
+It was kinda hard to solder everything while partly inside the case but I managed to do so
+
+[taser-video](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f62b37f1914427b01e18f87267d27a794e7f8c05/taser-video.mp4)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--99d41d6c39118c276a48735c9e576e3750f8fc1b/image.png)
+
+When building this I recommend making the case out of PETG and the rest from ASA or a different material that doesnt bend too much. I also recommend making sure that the electronics inside are well isolated as I did not and when the electrodes were blocked it struck my LED inside the case and the LED stopped working (everything else works). Gonna finish up my project next like making BOM.csv etc
+
+Also when printing ASA remember to use a hotbox. I did not have one sadly avalible and some cracks started to form on my 3D print which I had to patch myself with a soldering iron  
+
